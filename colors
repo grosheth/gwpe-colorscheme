@@ -1,0 +1,46 @@
+foreground_beige	= #e6dfc1
+background_grey		= #1c2023
+
+black 						=	#060302
+darkBlue					=	#3d434e
+
+redMain						= #d5835d
+redSecond					=	#c04e41
+
+greenMain					=	#8d9973
+greenSecond				= #c4c59b
+
+yellowMain				= #f8d883
+
+blueDark					= #3d434e
+blueDeep					= #667289
+blue							= #8490a8
+bluePale					= #9eabbc
+blueSky						= #b7c3d2
+blueWhite					= #d7dee0
+
+# white 
+whiteMain					= #e6dfc1
+whiteSecond				=	#f9f9eb
+
+
+
+
+
+
+selection_foreground            #DDD8BB
+selection_background            #49473E
+# Cursor colors
+cursor                          #e6dfc1
+cursor_text_color               #1F1F28
+# URL underline color when hovering with mouse
+# kitty window border colors
+# OS Window titlebar colors
+# Tab bar colors
+active_tab_foreground           #DDD8BB
+active_tab_background           #614A82
+inactive_tab_foreground         #DDD8BB
+inactive_tab_background         #363644
+# Colors for marks (marked text in the terminal)
+# The basic 16 colors
+
