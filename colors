@@ -1,27 +1,27 @@
 foreground_beige	= #e6dfc1
 background_grey		= #1c2023
 
-black 						=	#060302
-darkBlue					=	#3d434e
+black 						= #060302
+darkBlue					= #3d434e
 
 redMain						= #d5835d
-redSecond					=	#c04e41
+redSecond					= #c04e41
 
-greenMain					=	#8d9973
-greenSecond				= #c4c59b
+greenMain					= #8d9973
+greenSecond				    = #c4c59b
 
-yellowMain				= #f8d883
+yellowMain				    = #f8d883
 
 blueDark					= #3d434e
 blueDeep					= #667289
-blue							= #8490a8
+blue						= #8490a8
 bluePale					= #9eabbc
 blueSky						= #b7c3d2
 blueWhite					= #d7dee0
 
 # white 
 whiteMain					= #e6dfc1
-whiteSecond				=	#f9f9eb
+whiteSecond				    = #f9f9eb
 
 
 
